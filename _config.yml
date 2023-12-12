@@ -3,9 +3,11 @@ navname: Yuki's Utopia
 
 # navigatior items
 nav:
-  Posts: /archives
-  Categories: /category
-  Tags: /tag
+  # Posts: /archives
+  # Categories: /category
+  # Tags: /tag
+  Games: /games
+  Photography: /photography
   About: /about
 
 # favicon
@@ -23,7 +25,7 @@ avatar: /image/avatar.jpg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
+  # Blog: /archives
   Email: yueqiwu@umich.edu
   # Category:
   # Tags: 
@@ -53,7 +55,7 @@ links:
   # Github: https://github.com/Siricee
 
 # how links show: you have 2 choice--text or icon.
-links_text_enable: false
+links_text_enable: true
 links_icon_enable: true
 
 # Post page
