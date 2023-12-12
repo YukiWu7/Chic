@@ -17,7 +17,7 @@ favicon: /favicon.ico
 nickname: Yuki Wu
 
 ### this variable is MarkDown form.
-description:  Lantern Maker <br> Illuminating the Path
+description:  Lantern Maker <br> Illuminating the Path <br> <br> Email &colon yueqiwu@umich.edu
 avatar: /image/avatar.jpg
 
 # main menu navigation
@@ -26,7 +26,7 @@ avatar: /image/avatar.jpg
 ## Unused key can be commented out.
 links:
   # Blog: /archives
-  Email: yueqiwu@umich.edu
+  # Email: yueqiwu@umich.edu
   # Category:
   # Tags: 
   # Link:
